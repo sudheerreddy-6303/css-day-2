@@ -1,0 +1,29 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    background-color: yellowgreen;
+    color: white;
+    
+ }
+
+#sudheer{
+    height: 700px;
+    width: 400px;
+    display: inline-block;
+    
+}
+#reddy{
+    width: 350px;
+    height: 700px;
+    display: inline-block;
+}
+#hi{
+    height: 700px;
+    width: 400px;
+    display: inline-block;
+}
+#bye{
+    width: 400px;
+    height: 700px;
+    display: inline-block;
+}
